@@ -18,8 +18,4 @@ Here are some ideas to get you started:
 
 About me: 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=a+front-end+development+engineer)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7ebfcc&width=435&lines=a+guitar+enthusiast)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F6D502&width=435&lines=a+senior+web+surfer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=a+front-end+development+engineer)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7ebfcc&width=435&lines=a+guitar+enthusiast)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F6C7C2FF&width=435&lines=a+senior+web+surfer)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5C8F6&width=435&lines=a+moba+game+player)](https://git.io/typing-svg)
